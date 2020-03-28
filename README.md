@@ -6,8 +6,6 @@ Backtracking solution for infected risk
 Coron Virus Risk Estimate Solution by backtracking contacting history and visiting places of the infected people.
 
 
-This is a open project and welcomes anyone to commit to the solution and fight the virus. 
-
 It is so horrible for the unknowing infected risk the person to be contacted and the place to visited (https://science.sciencemag.org/content/early/2020/03/13/science.abb3221).
 As a result, there is no solution for restricting the individual people according to the infected risks but locking down the whole town/city/state/country. 
 It is probably so harmful to the economy and society as the coronavirus itself. 
