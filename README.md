@@ -2,6 +2,10 @@
 Backtracking solution for infected risk
 @copyright liu980299@gmail.com
 
+This is the background solution respository 
+
+the frontend respository for (andriod and ios) is on https://github.com/liu980299/covid19_radar/
+
 # coronv
 Coron Virus Risk Estimate Solution by backtracking contacting history and visiting places of the infected people.
 
